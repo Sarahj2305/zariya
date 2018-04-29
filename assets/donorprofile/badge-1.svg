@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="18101 885.903 90 90">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #fbed20;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        fill: #4d4d4d;
+        font-family: Montserrat-Bold, Montserrat;
+        font-weight: 700;
+      }
+
+      .cls-6 {
+        font-size: 5px;
+      }
+
+      .cls-7 {
+        font-size: 1px;
+      }
+
+      .cls-8 {
+        font-size: 4px;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Path_4743" data-name="Path 4743" class="cls-1" d="M0-127.733H90v90H0Z" transform="translate(0 127.733)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_5386" data-name="Group 5386" transform="translate(18101 885.903)">
+    <g id="Group_5385" data-name="Group 5385" class="cls-2">
+      <g id="Group_5381" data-name="Group 5381" transform="translate(0 0)">
+        <path id="Path_4739" data-name="Path 4739" class="cls-3" d="M-35.135-18.875c.735-21.111-18.343-38.7-38.569-38.518C-94.9-57.2-112.519-40.067-112.566-19c-.048,21.124,17.519,38.579,38.732,38.622,21.169.042,39.205-17.668,38.7-38.5M-118.694-8.838c3.668-6.687,2.327-13.352.375-20.093-.692-2.391.736-4.384,2.6-5.768A17.732,17.732,0,0,0-108.3-47.642c.389-3.5,2.689-5.67,6.315-6.048a16.125,16.125,0,0,0,12.08-6.849c2.353-3.284,5.578-4.113,9.3-2.535a16.5,16.5,0,0,0,13.89-.03,7.026,7.026,0,0,1,9.3,2.588,15.566,15.566,0,0,0,11.73,6.77c4.264.483,6.461,3.131,6.916,7.183a15.1,15.1,0,0,0,6.138,10.944c4.282,3.285,4.814,5.51,2.846,10.426a15.372,15.372,0,0,0,.133,12.852c1.7,3.647,1.1,6.946-2.171,9.392a16.8,16.8,0,0,0-7.119,12.33c-.408,3.946-3,6.319-7.01,6.67a15.112,15.112,0,0,0-11.448,6.6c-2.607,3.615-6.1,4.24-9.95,2.494a14.925,14.925,0,0,0-12.882.075c-3.781,1.673-7.293,1.016-9.676-2.433-2.977-4.31-6.989-6.249-12.058-6.825a6.815,6.815,0,0,1-6.413-6.429,16.276,16.276,0,0,0-7.079-12.325,7.129,7.129,0,0,1-3.232-6.05" transform="translate(118.694 63.896)"/>
+      </g>
+      <g id="Group_5382" data-name="Group 5382" transform="translate(6.127 6.329)">
+        <path id="Path_4740" data-name="Path 4740" class="cls-4" d="M-16.113-25.874c-13.277-.588-23.578-10.3-23.581-23.3C-39.7-61.818-28-72.784-15.616-71.909-4.287-72.685,8.172-62.83,8.15-48.874c-.02,13.622-12.451,23.524-24.263,23M-24.2-76.095l.025.034v0l-.028-.04,0,0m8.634-11.493c-21.191.193-38.815,17.326-38.863,38.393C-54.479-28.07-36.913-10.615-15.7-10.572c21.168.042,39.2-17.667,38.7-38.5.735-21.111-18.343-38.7-38.569-38.518" transform="translate(54.432 87.589)"/>
+      </g>
+      <g id="Group_5383" data-name="Group 5383" transform="translate(20.866 21.96)">
+        <path id="Path_4741" data-name="Path 4741" class="cls-3" d="M-10.124-.021C-22.513-.9-34.206,10.071-34.2,22.717c0,13,10.3,22.709,23.581,23.3,11.812.524,24.242-9.378,24.263-23C13.663,9.058,1.2-.8-10.124-.021" transform="translate(34.202 0.07)"/>
+      </g>
+      <g id="Group_5384" data-name="Group 5384" transform="translate(29.56 30.644)">
+        <path id="Path_4742" data-name="Path 4742" class="cls-5" d="M-8.127-2.656v-.829c0-1.261-.074-2.529.036-3.779a2.424,2.424,0,0,1,.752-1.59c.553-.422,1.026.225,1.439.6Q-1.032-3.84,3.826.588c1.293,1.179,1.293,2.2-.018,3.4Q-1.167,8.54-6.164,13.071c-.884.8-1.647.543-1.874-.641a7.557,7.557,0,0,1-.085-1.367c-.01-1.453,0-2.906,0-4.423a18.154,18.154,0,0,0-6.211,1.087,19.756,19.756,0,0,0-9.852,7.934,1.909,1.909,0,0,1-1.63,1.076,1.459,1.459,0,0,1-1.6-1.819c1.653-8.483,7.149-15.194,15.5-17.038,1.195-.264,2.429-.349,3.79-.537" transform="translate(27.455 8.993)"/>
+      </g>
+    </g>
+    <text id="S" class="cls-6" transform="translate(19.394 32.51) rotate(-54.467)"><tspan x="0" y="0">S</tspan></text>
+    <text id="O" class="cls-6" transform="translate(22.124 28.552) rotate(-44.908)"><tspan x="0" y="0">O</tspan></text>
+    <text id="C" class="cls-6" transform="matrix(0.83, -0.558, 0.558, 0.83, 26.301, 24.384)"><tspan x="0" y="0">C</tspan></text>
+    <text id="I" class="cls-7" transform="translate(30.661 21.557) rotate(-25.745)"><tspan x="0" y="0">I</tspan></text>
+    <text id="A" class="cls-6" transform="translate(32.658 20.424) rotate(-16.763)"><tspan x="0" y="0">A</tspan></text>
+    <text id="L" class="cls-8" transform="translate(38.182 18.821) rotate(-6.248)"><tspan x="0" y="0">L</tspan></text>
+    <text id="_" data-name=" " class="cls-7" transform="matrix(1, -0.009, 0.009, 1, 42.412, 18.421)"><tspan x="0" y="0"> </tspan></text>
+    <text id="Z" class="cls-6" transform="translate(43.993 18.312) rotate(5.316)"><tspan x="0" y="0">Z</tspan></text>
+    <text id="A-2" data-name="A" class="cls-6" transform="translate(49.024 18.701) rotate(15.449)"><tspan x="0" y="0">A</tspan></text>
+    <text id="R" class="cls-8" transform="translate(54.578 20.232) rotate(25.545)"><tspan x="0" y="0">R</tspan></text>
+    <text id="I-2" data-name="I" class="cls-7" transform="matrix(0.838, 0.545, -0.545, 0.838, 59.469, 22.673)"><tspan x="0" y="0">I</tspan></text>
+    <text id="Y" class="cls-6" transform="matrix(0.76, 0.65, -0.65, 0.76, 61.457, 23.839)"><tspan x="0" y="0">Y</tspan></text>
+    <text id="A-3" data-name="A" class="cls-6" transform="matrix(0.629, 0.777, -0.777, 0.629, 65.052, 26.796)"><tspan x="0" y="0">A</tspan></text>
+    <text id="S-2" data-name="S" class="cls-6" transform="translate(70.954 58.051) rotate(125.533)"><tspan x="0" y="0">S</tspan></text>
+    <text id="O-2" data-name="O" class="cls-6" transform="matrix(-0.708, 0.706, -0.706, -0.708, 68.224, 62.009)"><tspan x="0" y="0">O</tspan></text>
+    <text id="C-2" data-name="C" class="cls-6" transform="matrix(-0.83, 0.558, -0.558, -0.83, 64.047, 66.177)"><tspan x="0" y="0">C</tspan></text>
+    <text id="I-3" data-name="I" class="cls-7" transform="translate(59.687 69.005) rotate(154.255)"><tspan x="0" y="0">I</tspan></text>
+    <text id="A-4" data-name="A" class="cls-6" transform="translate(57.69 70.138) rotate(163.237)"><tspan x="0" y="0">A</tspan></text>
+    <text id="L-2" data-name="L" class="cls-8" transform="matrix(-0.994, 0.109, -0.109, -0.994, 52.167, 71.74)"><tspan x="0" y="0">L</tspan></text>
+    <text id="_2" data-name=" " class="cls-7" transform="matrix(-1, 0.009, -0.009, -1, 47.936, 72.141)"><tspan x="0" y="0"> </tspan></text>
+    <text id="Z-2" data-name="Z" class="cls-6" transform="translate(46.355 72.25) rotate(-174.684)"><tspan x="0" y="0">Z</tspan></text>
+    <text id="A-5" data-name="A" class="cls-6" transform="translate(41.324 71.861) rotate(-164.551)"><tspan x="0" y="0">A</tspan></text>
+    <text id="R-2" data-name="R" class="cls-8" transform="translate(35.77 70.33) rotate(-154.455)"><tspan x="0" y="0">R</tspan></text>
+    <text id="I-4" data-name="I" class="cls-7" transform="translate(30.899 67.901) rotate(-147.024)"><tspan x="0" y="0">I</tspan></text>
+    <text id="Y-2" data-name="Y" class="cls-6" transform="matrix(-0.76, -0.65, 0.65, -0.76, 28.89, 66.723)"><tspan x="0" y="0">Y</tspan></text>
+    <text id="A-6" data-name="A" class="cls-6" transform="matrix(-0.629, -0.777, 0.777, -0.629, 25.296, 63.766)"><tspan x="0" y="0">A</tspan></text>
+  </g>
+</svg>

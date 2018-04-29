@@ -1,0 +1,157 @@
+.donorprofile-post-bg{
+	background-image: url('../assets/donorprofile/amterdam-bg.jpg');
+	width: 100%;
+	// min-height: 500px;
+	height: 70vh;
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+    // background-attachment: fixed;   
+    
+}
+
+// .donorprofile-post-bg{
+// 	background: url('../assets/donorprofile/amterdam-bg.jpg);
+//     background-repeat: no-repeat;
+//     background-size: 300px 100px;    
+//    }
+
+
+
+
+
+
+// ------------------------------------donor page white background----
+
+
+.donor-box{
+	// margin: -200px 50px;
+	margin-top: -200px;
+	margin-bottom: 60px;
+    padding: 15px 25px;
+    background: $white;
+	box-shadow: 0px 1px 20px 0px rgba(0,0,10,0.06);
+}
+
+
+
+.donor-box h5{
+	display: inline-block;
+}
+
+.badges img{
+	height: 100px;
+	width: auto;
+}
+
+.achievements-h2{
+	margin-top: 10px;
+}
+
+
+
+// ------------------------------------vertical border between user dp and causes supported----
+
+.seperator-border-right{
+	border-right: solid 2px rgba(0,0,0,0.05);
+	@include breakpoint(small only){
+		border-right: none;
+		border-bottom: solid 2px rgba(0,0,0,0.05);
+
+	}
+}
+
+
+
+
+// ------------------------------------space between sections---
+
+
+
+.donor-section{
+	padding:100px 0px;
+}
+
+
+
+
+// ------------------------------------campaign grid----
+
+
+
+.campaign-grid {
+	margin:40px 0;
+}
+
+
+
+
+// ----------------shameful------------
+
+
+
+.donor-box .post-description p{
+	padding: 0px 20px;
+}
+
+.donor-box .post-description h3{
+	margin-top: 10px;
+}
+
+.donor-box .post-description span{
+	color: $black;
+	font-weight: 600;
+	opacity: 0.4;
+}
+
+.light-grey-bg{
+	background-color: $lighter-grey;
+}
+
+.campaign-card{
+  margin: 0;
+  padding: 0;
+}
+
+.campaign-card-text{
+  padding: 20px;
+}
+
+.campaign-card-text .button{
+	margin-bottom: 0;
+	margin-top: 10px;
+}
+
+.stat-cards{
+	margin: 60px 0 0 0;
+    padding: 60px 10px 10px 10px;
+    @include breakpoint (medium down){
+    	margin: 60px 0 30px 0;
+    }
+}
+
+.stat-cards .clear{
+	margin-bottom: 0;
+	margin-top: 20px;
+}
+
+.donor-pi-chart{
+	margin: 20px;
+	padding: 0px 8%;
+}
+
+.impact-map{
+	margin-top: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,838 @@
+
+// html{
+
+// 	font-family: $body-font-family;
+// }
+// .marginBox{
+// 	padding-left:500px;
+// 	padding-right:500px;
+// }
+.section{
+	padding:100px 0px;
+	@include breakpoint (small only){
+		padding: 50px 0;
+	}
+}
+
+.seperator{	
+	
+	width: 60px;
+	height: 5px;
+	background-color: $brand;
+	margin: 10px auto;    
+}
+
+.seperatorLeft{	
+	
+	width: 60px;
+	height: 5px;
+	background-color: $brand;
+	margin: 8px 0; 
+}
+
+// .toppadding {
+// padding-top: 50px;
+// }
+
+// .leftpadding {
+// padding-left: 125px;
+// }
+
+.featureicons {
+	height:174px;
+	width:auto;
+	margin: 100px 0 20px 0;
+}
+
+.imagegrid {
+	margin:40px 0;
+}
+
+
+
+// ---------------------------------Home hero image ---------------------------------
+
+.hero-image-container-1{
+	// height: 100vh;
+	background: linear-gradient(90deg, $brand 25%, white 0%);
+	padding: 30px 0;
+	@include breakpoint(small only){
+		background: transparent;
+		padding:0;
+	}
+}
+
+.hero-image-container-2{
+	// height: 100vh;
+	background: linear-gradient(90deg, #f7f7f7 75%, $brand 25%);
+	@include breakpoint(small only){
+		background: #f7f7f7;
+	}
+}
+
+.landing-hero-background{
+	width: 100%;
+	height: 100vh;
+	background-color: $brand;
+}
+
+.orbit-bullets button {
+    width: 11px;
+    height: 14px;
+    margin-right: 14px;
+    border-radius: 0;
+}
+
+.hero-text{
+	// margin-left: 40px;
+
+	@include breakpoint(small only){
+		text-align: center;
+		// height: 100vh;
+	}
+}
+
+.hero-text h1{
+	font-size: 60px;
+	@include breakpoint(medium down){
+		font-size: 40px;
+	}
+
+	@include breakpoint(small only){
+		margin-top: 30px;
+	}
+
+}
+
+.herobackground {
+	height: 100%;
+}
+
+.herobackground .seperatorLeft {
+	margin-bottom: 20px;
+}
+
+.apply-join .seperator{
+	margin-bottom: 20px;
+}
+
+
+
+// ---------------------------------Header styles ---------------------------------
+
+
+h1,.h1 {
+	font-size: 60px;
+	font-weight: 600;
+	line-height: 65px;
+	margin-bottom:0px;
+	@include breakpoint (medium down){
+		font-size: 30px;
+
+	}
+}
+
+h2,.h2 {
+	font-size: 30px;
+	font-weight: 600;
+	@include breakpoint (medium down){
+		font-size: 15px;
+
+	}
+}
+
+h3, .h3{
+	font-size: 20px;
+	font-weight: 600;
+	@include breakpoint (medium down){
+		font-size: 12px;
+	}
+}
+
+h4, .h4{
+	font-size: 16px;
+	font-weight: 600;
+	@include breakpoint (medium down){
+		font-size: 12px;
+	}
+}
+
+h5, .h5{
+	font-size: 12px;
+	font-weight: 600;
+	
+}
+
+.section h2{
+	font-size:30px;
+	@include breakpoint(small only){
+		font-size: 20px;
+	}
+}
+
+.section h1{
+	font-size: 60px;
+	@include breakpoint(medium down){
+		font-size: 40px;
+	}
+
+	@include breakpoint(small only){
+		margin-top: 30px;
+		line-height: 50px;
+		margin-bottom: 30px;
+	}
+}
+
+.landing-what-is-zariya-h2{
+	font-size:30px;
+	@include breakpoint(small only){
+		font-size: 20px;
+		text-align: center;
+	}
+}
+
+
+
+
+// h6, .h6{
+// 	font-size: 14px;
+// 	font-weight: 600;
+// 	@include breakpoint (medium down){
+// 		font-size: 12x;
+// }
+
+
+
+
+// ---------------------------------body copy homepage ---------------------------------
+
+.feature-description p{
+    padding: 0 3px;
+}
+
+
+.herobackground p{
+	padding-right:90px;
+}
+
+.apply-join p{
+	padding:0 100px;
+	@include breakpoint (medium only){
+		padding: 0 50px;
+	}
+	@include breakpoint (small only){
+		padding: 0 20px;
+	}
+}
+
+.apply-join img{
+	margin-bottom: 20px;
+}
+
+.apply-join .button{
+	margin-bottom: 30px;
+}
+
+.what-is-text-content{
+	padding: 0 120px 0 0;
+	@include breakpoint (medium only){
+		padding: 0 40px 0 10px;
+	}
+
+	@include breakpoint (small only){
+		padding: 0 10px;
+	}
+
+}
+
+.what-is-text-content p{
+	margin: 30px 0px 30px 0;
+}
+
+.what-is-text-content .button{
+	margin-bottom: 30px;
+}
+
+.title-bar .menu-icon{
+	outline: none;
+}
+
+
+
+
+
+// --------------------------------- footer ---------------------------------
+
+footer h1{
+	margin-bottom: 50px;
+}
+
+footer{
+	background-color: $black;
+	color:$white;
+}
+
+
+
+
+
+
+
+
+
+
+// --------------------------------- MONEY INPUT---------------------------------
+
+
+.wrapper {
+  padding:4em;
+  padding-bottom: 0;
+}
+
+.currency-selector {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  padding-left: .5rem;
+  border: 0;
+  background: transparent;
+  
+  -webkit-appearance:none;
+  -moz-appearance:none;
+  appearance:none;
+  
+  background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1024' height='640'><path d='M1017 68L541 626q-11 12-26 12t-26-12L13 68Q-3 49 6 24.5T39 0h952q24 0 33 24.5t-7 43.5z'></path></svg>") 90%/12px 6px no-repeat;
+  
+  font-family: inherit;
+  color: inherit;
+}
+
+.currency-amount {
+  text-align: right;
+}
+
+.currency-addon {
+  width: 6em;
+  text-align: left;
+  position: relative;
+}
+
+.input-group-addon {
+
+    // padding: .5rem .75rem;
+    margin-bottom: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.25;
+    color: #464a4c;
+    text-align: center;
+    background-color: #eceeef;
+    border: 1px solid rgba(0,0,0,.15);
+    border-radius: .25rem;
+}
+
+.input-group-addon, .input-group-btn {
+    white-space: nowrap;
+    vertical-align: middle;
+}
+
+
+
+.brand-text{
+	color: $brand;
+}
+
+
+// ------------------------------ Campaign page ------------------------------
+
+.tabs-title>a{
+	font-weight: 600;
+	color: $black;
+}
+
+.tabs-title>a:focus, .tabs-title>a[aria-selected='true']{
+	color: $brand;
+	background: none;
+}
+
+.campaign-page-container{
+	margin: 40px 0;
+	@include breakpoint (small only){
+		margin: 60px 0;
+	}
+}
+
+
+
+// ---------------------------------- Login page -----------------------------------
+
+
+
+.login-form label{
+	text-align: left;
+}
+
+.login-form .login-button{
+	display: block;
+}
+
+.hero-image-container-1 .post-box{
+	padding: 50px 40px;
+}
+
+.seperator-middle, .seperator-left{
+	height: 4px;
+	width: 80px;
+	background-color: $brand;
+	margin-bottom: 25px;
+}
+
+.payment-image{
+	transform: translateY(-240px);
+}
+
+// .campaign-card{
+//     transition: all 0.25s ease-out,color 0.25s ease-out;
+// }
+
+
+// .campaign-card:hover{
+// 	transform: translateY(-10px);
+// 	box-shadow: 0px 13px 24px 0px rgba(0,0,0,0.08);
+//     transition: all 0.25s ease-out,color 0.25s ease-out;
+
+// }
+
+
+
+.explore-card{
+	min-height: 452px;
+}
+
+.magnify{
+	height: 100px;
+	width: auto;
+	// display: block;
+	margin-bottom: 50px;
+	margin-top: 50px;
+}
+
+.highlights{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.highlights .button.clear{
+	margin: 0;
+	padding: 0;
+	margin-left: 30px;
+	text-transform: none;
+}
+
+.spinner{
+	width: 40px;
+	margin-bottom: 15px;
+}
+
+.spinner-text{
+	color: $brand;
+}
+
+
+
+// ------------------ Image hover effects ---------------------
+
+/* Common style */
+.hover-grid figure {
+	position: relative;
+    float: left;
+    overflow: hidden;
+    margin: 0;
+    min-width: 260px;
+    max-width: 240px;
+    max-height: 250px;
+    width: 48%;
+    background: $black;
+    text-align: center;
+    cursor: pointer;
+
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.hover-grid figure img {
+	position: relative;
+	display: block;
+	min-height: 100%;
+	max-width: 100%;
+	opacity: 0.8;
+}
+
+.hover-grid figure figcaption {
+	padding: 2em;
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 1.25em;
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+}
+
+.hover-grid figure figcaption::before,
+.hover-grid figure figcaption::after {
+	pointer-events: none;
+}
+
+.hover-grid figure figcaption,
+.hover-grid figure figcaption > a {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+/* Anchor will cover the whole item by default */
+/* For some effects it will show as a button */
+.hover-grid figure figcaption > a {
+	z-index: 1000;
+	text-indent: 200%;
+	white-space: nowrap;
+	font-size: 0;
+	opacity: 0;
+}
+
+.hover-grid figure h2 {
+	word-spacing: -0.15em;
+	font-weight: 300;
+}
+
+.hover-grid figure h2 span {
+	font-weight: 800;
+}
+
+.hover-grid figure h2,
+.hover-grid figure p {
+	margin: 0;
+}
+
+.hover-grid figure p {
+	letter-spacing: 1px;
+	font-size: 68.5%;
+}
+
+
+/*---------------*/
+/***** Chico *****/
+/*---------------*/
+
+figure.effect-chico img {
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+	-webkit-transform: scale(1.12);
+	transform: scale(1.12);
+}
+
+figure.effect-chico:hover img {
+	opacity: 0.5;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
+
+figure.effect-chico figcaption {
+	padding: 3em;
+}
+
+figure.effect-chico figcaption::before {
+	position: absolute;
+	top: 30px;
+	right: 30px;
+	bottom: 30px;
+	left: 30px;
+	border: 1px solid #fff;
+	content: '';
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+figure.effect-chico figcaption::before,
+figure.effect-chico p {
+	opacity: 0;
+	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+	transition: opacity 0.35s, transform 0.35s;
+}
+
+figure.effect-chico h2 {
+	padding: 20% 0 20px 0;
+}
+
+figure.effect-chico p {
+	margin: 0 auto;
+	max-width: 200px;
+	-webkit-transform: scale(1.5);
+	transform: scale(1.5);
+}
+
+figure.effect-chico:hover figcaption::before,
+figure.effect-chico:hover p {
+	opacity: 1;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
+
+@media screen and (max-width: 50em) {
+	.content {
+		padding: 0 10px;
+		text-align: center;
+	}
+	.hover-grid figure {
+		display: inline-block;
+		// float: none;
+		// margin: 10px auto;
+		width: 100%;
+	}
+}
+
+.hover-grid {
+	    /* position: relative; */
+    margin: 0 auto;
+    padding: 0;
+    max-width: none;
+    list-style: none;
+    text-align: center;
+    /* width: 100%; */
+    /* height: AUTO; */
+}
+
+
+
+
+figure.effect-chico:hover figcaption::before, figure.effect-chico:hover p{
+	transform: scale(1.2);
+}
+
+figure.effect-chico figcaption::before{
+	border: 5px solid #fff;
+}
+
+.hover-grid figure p{
+	font-size: 14px;
+	font-weight: 900;
+}
+
+
+.image-container{
+	min-height: 100vh;
+}
+
+
+.stat-box{
+	// border: 2px solid #A5A5A5;
+	height: 100%;
+	min-height: 160px;
+}
+
+
+.stat-box img{
+	width: 70px;
+	margin-top: 15px;
+
+}
+
+.stat-box h5{
+	font-size: 16px;
+}
+
+.stat-box h2{
+	color: $brand;
+	font-size: 50px;
+	font-weight: 600;
+	margin-top: 15px;
+}
+
+.post-click{
+	display: none;
+}
+
+
+// ----------- Appreciate button ---------------
+
+.button-like, .button-like-no {
+  // border: 2px solid $black;
+  background-color: transparent;
+  text-decoration: none;
+  padding: 1rem;
+  position: relative;
+  vertical-align: middle;
+  text-align: center;
+  display: inline-block;
+  border-radius: 0;
+  color: $black;
+  transition: all ease 0.4s;
+
+  span {
+    margin-left: 0.5rem;
+  }
+
+  .fa,
+  span {
+    transition: all ease 0.4s;
+  }
+
+  &:focus {
+    background-color: transparent;
+
+    .fa,
+    span {
+      color: $black;
+    }
+  }
+
+  &:hover {
+    border-color: $brand;
+    background-color: transparent;
+
+    .fa,
+    span {
+      color: $brand;
+    }
+  }
+}
+
+.liked {
+  background-color: $brand;
+  border-color: $brand;
+
+  .fa,
+  span {
+    color: $white;
+
+  }
+
+  &:focus {
+    background-color: $brand;
+
+    .fa,
+    span {
+      color: $white;
+    }
+  }
+
+  &:hover {
+    background-color: $brand;
+    border-color: $brand;
+
+    .fa,
+    span {
+      color: $white;
+    }
+  }
+}
+
+
+.button-like, .button-like-no {
+	padding: 7px 11px;
+}
+
+
+
+.button-like img, .button-like-no img{
+	// display: inline-block;
+	width: 24px;
+}
+
+.whitehand, .thankyou, .spinner-click{
+	display: none;
+}
+
+@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css");
+
+/* Basic styles */
+
+.row {
+  text-align: center;
+}
+
+.rate {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+.rate input {
+  display: none;
+}
+
+.rate label {
+  float: right;
+  font-size: 0;
+  color: #d9d9d9;
+}
+
+.rate label:before {
+  content: "\f005";
+  font-family: FontAwesome;
+  font-size: 18px;
+}
+
+.rate label:hover,
+.rate label:hover ~ label {
+  color: rgba(44, 201, 255, 0.5);
+  transition: 0.2s;
+}
+
+.rate input:checked ~ label {
+  color: $brand;
+}
+
+.rate input:checked ~ label:hover,
+.rate input:checked ~ label:hover ~ label {
+  color: rgba(44, 201, 255, 0.5);
+  transition: 0.2s;
+}
+
+
+/* Half-star*/
+
+.star-half {
+  position: relative;
+}
+
+.star-half:before {
+  position: absolute;
+  content: "\f089";
+  padding-right: 0;
+}
+
+[type='checkbox']+label, [type='radio']+label{
+	margin-left: 5px;
+    margin-right: 5px;
+}
+
+.star-row{
+	padding: 10px 0;
+	border-top: solid 1px $lighter-grey;
+	border-bottom: solid 1px $lighter-grey;
+}
+
+.star-row h3{
+	font-size: 14px;
+	margin: 0;
+	line-height: 39px;
+}
+
+.star-container{
+	margin: 40px 0;
+}
+
+
+.post-text-area{
+	min-height: 228px;
+}
+
+
+
+
+

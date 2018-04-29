@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="19265 381.721 156.137 103.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2cc9ff;
+      }
+
+      .cls-2 {
+        fill: #707070;
+        font-size: 17px;
+        font-family: Montserrat-Regular, Montserrat;
+      }
+
+      .cls-3 {
+        fill: #9ce6ff;
+      }
+
+      .cls-4 {
+        fill: #cbeefa;
+      }
+    </style>
+  </defs>
+  <g id="Group_5363" data-name="Group 5363" transform="translate(17795.137 -74)">
+    <g id="Group_5360" data-name="Group 5360" transform="translate(-17 -74)">
+      <rect id="Rectangle_1530" data-name="Rectangle 1530" class="cls-1" width="28.393" height="28.393" transform="translate(1486.863 529.721)"/>
+      <text id="Environment" class="cls-2" transform="translate(1533 550.088)"><tspan x="0" y="0">Environment</tspan></text>
+    </g>
+    <g id="Group_5361" data-name="Group 5361" transform="translate(-17 -74)">
+      <rect id="Rectangle_1531" data-name="Rectangle 1531" class="cls-3" width="28.393" height="28.393" transform="translate(1486.863 567.578)"/>
+      <text id="Women" class="cls-2" transform="translate(1533 587.396)"><tspan x="0" y="0">Women</tspan></text>
+    </g>
+    <g id="Group_5362" data-name="Group 5362" transform="translate(-17 -74)">
+      <rect id="Rectangle_1532" data-name="Rectangle 1532" class="cls-4" width="28.393" height="28.393" transform="translate(1486.863 604.578)"/>
+      <text id="Housing" class="cls-2" transform="translate(1533 624.396)"><tspan x="0" y="0">Housing</tspan></text>
+    </g>
+  </g>
+</svg>

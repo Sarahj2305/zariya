@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 970 231">
+  <defs>
+    <style>
+      .cls-1, .cls-7 {
+        fill: #3fccfc;
+      }
+
+      .cls-2, .cls-9 {
+        fill: #fcfcfc;
+      }
+
+      .cls-3 {
+        fill: #fff;
+        stroke: #2a2a2a;
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        fill: #2cc9ff;
+        font-size: 59px;
+        font-family: FrancoisOne-Regular, Francois One;
+      }
+
+      .cls-5 {
+        fill: #2a2a2a;
+        font-size: 16px;
+        font-family: Montserrat-SemiBold, Montserrat;
+        font-weight: 600;
+        letter-spacing: 0.058em;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-7, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-10 {
+        stroke: none;
+      }
+
+      .cls-11 {
+        fill: none;
+      }
+
+      .cls-12 {
+        filter: url(#Rectangle_1121-3);
+      }
+
+      .cls-13 {
+        filter: url(#Rectangle_1121-2);
+      }
+
+      .cls-14 {
+        filter: url(#Rectangle_1121);
+      }
+    </style>
+    <filter id="Rectangle_1121" x="659.763" y="0" width="310.237" height="231" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1121-2" x="329.977" y="0" width="310.237" height="231" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1121-3" x="0" y="0" width="310.237" height="231" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <path id="Path_2846" data-name="Path 2846" class="cls-1" d="M0-272.127H44.517v59.671H0Z" transform="translate(0 272.127)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_2867" data-name="Path 2867" class="cls-2" d="M0-517.127H24.049v20.383H0Z" transform="translate(0 517.127)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_5457" data-name="Group 5457" transform="translate(-473 -167)">
+    <g id="Group_5000" data-name="Group 5000" transform="translate(1141.763 173)">
+      <g class="cls-14" transform="matrix(1, 0, 0, 1, -668.76, -6)">
+        <g id="Rectangle_1121-4" data-name="Rectangle 1121" class="cls-3" transform="translate(668.76 6)">
+          <rect class="cls-10" width="292.238" height="213"/>
+          <rect class="cls-11" x="1" y="1" width="290.238" height="211"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_4999" data-name="Group 4999" transform="translate(811.977 173)">
+      <g class="cls-13" transform="matrix(1, 0, 0, 1, -338.98, -6)">
+        <g id="Rectangle_1121-5" data-name="Rectangle 1121" class="cls-3" transform="translate(338.98 6)">
+          <rect class="cls-10" width="292.238" height="213"/>
+          <rect class="cls-11" x="1" y="1" width="290.238" height="211"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_4998" data-name="Group 4998" transform="translate(482 173)">
+      <g class="cls-12" transform="matrix(1, 0, 0, 1, -9, -6)">
+        <g id="Rectangle_1121-6" data-name="Rectangle 1121" class="cls-3" transform="translate(9 6)">
+          <rect class="cls-10" width="292.238" height="213"/>
+          <rect class="cls-11" x="1" y="1" width="290.238" height="211"/>
+        </g>
+      </g>
+    </g>
+    <text id="_48" data-name="48" class="cls-4" transform="translate(928 281)"><tspan x="0" y="0">48</tspan></text>
+    <text id="_5" data-name="5" class="cls-4" transform="translate(1279 281)"><tspan x="0" y="0">5</tspan></text>
+    <text id="You_are_a_Generous_Zariya" data-name="You are a
+Generous Zariya" class="cls-5" transform="translate(535 297)"><tspan x="43.712" y="15">You are a</tspan><tspan x="12.048" y="34">Generous Zariya</tspan></text>
+    <text id="Human_Lives_Impacted" data-name="Human Lives
+Impacted" class="cls-5" transform="translate(876 297)"><tspan x="27.568" y="15">Human Lives</tspan><tspan x="41.56" y="34">Impacted</tspan></text>
+    <text id="Zariyas_appreciated_you" data-name="Zariyas
+appreciated you" class="cls-5" transform="translate(1211 300)"><tspan x="52.176" y="15">Zariyas</tspan><tspan x="11.784" y="34">appreciated you</tspan></text>
+    <g id="Group_2952" data-name="Group 2952" transform="translate(-79 -179.633)">
+      <g id="Group_2911" data-name="Group 2911" transform="translate(-692 244)">
+        <g id="Group_2883" data-name="Group 2883" transform="translate(1367.441 163.633)">
+          <g id="Group_2879" data-name="Group 2879" class="cls-6">
+            <g id="Group_2876" data-name="Group 2876" transform="translate(22.845 41.563)">
+              <path id="Path_2843" data-name="Path 2843" class="cls-7" d="M-39.4,0l5.229,14.815c-1.786-.288-3.334-.427-4.818-.81A2.829,2.829,0,0,0-42.341,15a40.976,40.976,0,0,1-3.015,3.11c-.833-2.324-1.582-4.4-2.319-6.479-.889-2.507-1.758-5.022-2.659-7.525-.235-.654-.214-1.059.622-1.075A17.532,17.532,0,0,0-39.9.131,2.218,2.218,0,0,1-39.4,0" transform="translate(50.463)"/>
+            </g>
+            <g id="Group_2877" data-name="Group 2877" transform="translate(5.172 41.615)">
+              <path id="Path_2844" data-name="Path 2844" class="cls-7" d="M-18.284,0A44.189,44.189,0,0,0-12.9,2.3a45.261,45.261,0,0,0,5.855.878l-5.23,14.847a24.478,24.478,0,0,1-2.26-2.282c-1.274-1.687-2.73-2.414-4.877-1.675a21.54,21.54,0,0,1-3.767.618c-.026,0-.059-.038-.238-.164L-18.284,0" transform="translate(23.419)"/>
+            </g>
+            <g id="Group_2878" data-name="Group 2878" transform="translate(0 0)">
+              <path id="Path_2845" data-name="Path 2845" class="cls-7" d="M-152.986-63.668a10.959,10.959,0,0,1-2.055-6.568,4.762,4.762,0,0,0-3.4-4.847,11.806,11.806,0,0,1-6.034-4.3c-1.552-2.155-3.692-2.593-6.134-1.8a9.863,9.863,0,0,1-6.345.068,5.289,5.289,0,0,0-6.565,2.022,10.3,10.3,0,0,1-5.387,3.917,5.032,5.032,0,0,0-3.8,5.155,11.257,11.257,0,0,1-2.181,6.747,4.927,4.927,0,0,0,.077,6.207,10.443,10.443,0,0,1,2.141,6.42,5.178,5.178,0,0,0,3.958,5.387,9.883,9.883,0,0,1,5.23,3.763,5.373,5.373,0,0,0,6.759,2.038,9.179,9.179,0,0,1,6.018,0c1.286.411,2.69.8,3.947.075a9.372,9.372,0,0,0,2.654-2.211,10.743,10.743,0,0,1,5.244-3.756,5.174,5.174,0,0,0,3.9-5.421,10.224,10.224,0,0,1,1.934-6.16,21.239,21.239,0,0,0,1.593-3.415,19.71,19.71,0,0,0-1.549-3.325" transform="translate(195.955 81.55)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Group_2912" data-name="Group 2912" transform="translate(685 420.471)">
+        <g id="Group_2905" data-name="Group 2905" class="cls-8">
+          <g id="Group_2904" data-name="Group 2904" transform="translate(0 0)">
+            <path id="Path_2866" data-name="Path 2866" class="cls-9" d="M-294.412-496.745c-.148-.128-.288-.256-.434-.376q-2.367-1.944-4.735-3.886a36.472,36.472,0,0,1-4.515-4.246,10.426,10.426,0,0,1-2.04-3.5,6.832,6.832,0,0,1-.286-3.167,5.94,5.94,0,0,1,3.136-4.494,5.4,5.4,0,0,1,3.207-.678,4.678,4.678,0,0,1,2.1.838,9.929,9.929,0,0,1,2.5,2.492c.373.489.707,1.008,1.066,1.524.143-.227.287-.475.451-.71a13.327,13.327,0,0,1,2.948-3.2,4.7,4.7,0,0,1,4.721-.612,5.731,5.731,0,0,1,3.642,4.053,7.105,7.105,0,0,1-.269,4.257,11.121,11.121,0,0,1-2.115,3.521,32.594,32.594,0,0,1-4.343,4.14c-1.6,1.315-3.22,2.6-4.832,3.892-.061.049-.124.1-.2.15" transform="translate(306.492 517.127)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

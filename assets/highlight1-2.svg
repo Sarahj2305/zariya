@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 310.237 231">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #a5a5a5;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #2cc9ff;
+        font-size: 59px;
+        font-family: FrancoisOne-Regular, Francois One;
+      }
+
+      .cls-3 {
+        fill: #2a2a2a;
+        font-size: 16px;
+        font-family: Montserrat-SemiBold, Montserrat;
+        font-weight: 600;
+        letter-spacing: 0.058em;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-6 {
+        filter: url(#Rectangle_1121);
+      }
+    </style>
+    <filter id="Rectangle_1121" x="0" y="0" width="310.237" height="231" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_5691" data-name="Group 5691" transform="translate(-1132.763 -167)">
+    <g id="Group_5000" data-name="Group 5000" transform="translate(1141.763 173)">
+      <g class="cls-6" transform="matrix(1, 0, 0, 1, -9, -6)">
+        <g id="Rectangle_1121-2" data-name="Rectangle 1121" class="cls-1" transform="translate(9 6)">
+          <rect class="cls-4" width="292.238" height="213"/>
+          <rect class="cls-5" x="1" y="1" width="290.238" height="211"/>
+        </g>
+      </g>
+    </g>
+    <text id="_5" data-name="5" class="cls-2" transform="translate(1279 281)"><tspan x="0" y="0">5</tspan></text>
+    <text id="Zariyas_appreciated_you" data-name="Zariyas
+appreciated you" class="cls-3" transform="translate(1211 300)"><tspan x="52.176" y="15">Zariyas</tspan><tspan x="11.784" y="34">appreciated you</tspan></text>
+  </g>
+</svg>

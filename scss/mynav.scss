@@ -1,0 +1,35 @@
+.top-bar, .title-bar{
+	box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.05);
+}
+
+.top-bar, .top-bar ul, .title-bar {
+	background-color: $white;
+}
+
+.top-bar input{
+	max-width:400px;
+
+	@include breakpoint (small only){
+		max-width: 100%;
+		width: 100%;
+	}
+}
+
+.menu-search{
+	@include breakpoint(small only){
+		width: 100%;
+	}
+}
+
+
+.menu a, .menu .button, .title-bar{
+	font-size: 14px;
+	font-weight: 600;
+	color: $black;
+}
+
+.menu-icon::after{
+	background: $black;
+	box-shadow: 0 7px 0 $black, 0 14px 0 $black;
+}
+

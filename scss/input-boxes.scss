@@ -1,0 +1,17 @@
+[type='text'], [type='password'], [type='date'], [type='datetime'], [type='datetime-local'], [type='month'], [type='week'], [type='email'], [type='number'], [type='search'], [type='tel'], [type='time'], [type='url'], [type='color'], textarea {
+	border:	1px solid $light-grey;
+  border-radius: 1px;
+  outline: none;
+  // height: 50px;
+  font-weight: 600;
+  font-size:12px;
+  color: $black;
+  
+}
+
+[type='text']:focus, [type='password']:focus, [type='date']:focus, [type='datetime']:focus, [type='datetime-local']:focus, [type='month']:focus, [type='week']:focus, [type='email']:focus, [type='number']:focus, [type='search']:focus, [type='tel']:focus, [type='time']:focus, [type='url']:focus, [type='color']:focus, textarea:focus{
+	border:	1px solid $brand;
+	box-shadow: 0 1px 14px rgba(44, 201, 255, 0.12);
+	color: $black;
+
+}
