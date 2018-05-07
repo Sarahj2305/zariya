@@ -1,16 +1,16 @@
 $(document).foundation();
 
 
-function updateSymbol(e){
-  var selected = $(".currency-selector option:selected");
-  $(".currency-symbol").text(selected.data("symbol"))
-  $(".currency-amount").prop("placeholder", selected.data("placeholder"))
-  $('.currency-addon-fixed').text(selected.text())
-}
+// function updateSymbol(e){
+//   var selected = $(".currency-selector option:selected");
+//   $(".currency-symbol").text(selected.data("symbol"))
+//   $(".currency-amount").prop("placeholder", selected.data("placeholder"))
+//   $('.currency-addon-fixed').text(selected.text())
+// }
 
-$(".currency-selector").on("change", updateSymbol)
+// $(".currency-selector").on("change", updateSymbol)
 
-updateSymbol()
+// updateSymbol()
 
 
 $("#request-update").click(function(){
@@ -49,4 +49,10 @@ $(function() {
       $(this).html('0');
       count($(this));
   });
+});
+
+
+$("#submit-review").click(function(){
+    $(".pre-revview").hide();
+    $(".post-review").show();
 });

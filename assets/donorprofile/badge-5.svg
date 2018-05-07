@@ -1,0 +1,86 @@
+<svg id="Group_5438" data-name="Group 5438" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 127.844 127.733">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #8bc53e;
+      }
+
+      .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        fill: #4d4d4d;
+        font-size: 10px;
+        font-family: Montserrat-Bold, Montserrat;
+        font-weight: 700;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Path_4770" data-name="Path 4770" class="cls-1" d="M0-127.733H127.843V0H0Z" transform="translate(0 127.733)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_5416" data-name="Group 5416" class="cls-2">
+    <g id="Group_5413" data-name="Group 5413">
+      <path id="Path_4767" data-name="Path 4767" class="cls-3" d="M0,0C1.044-29.962-26.056-54.928-54.786-54.667c-30.1.273-55.137,24.59-55.2,54.49C-110.058,29.8-85.1,54.577-54.972,54.638-24.9,54.7.718,29.563,0,0M-118.694,14.245c5.211-9.491,3.305-18.95.533-28.517-.983-3.393,1.045-6.222,3.692-8.186a25.162,25.162,0,0,0,10.533-18.37c.552-4.974,3.82-8.047,8.971-8.583,7.16-.745,12.9-3.782,17.16-9.721,3.343-4.661,7.924-5.838,13.208-3.6a23.455,23.455,0,0,0,19.731-.042c5.185-2.332,9.967-1,13.211,3.673,4.107,5.917,9.7,8.82,16.662,9.608,6.057.685,9.178,4.443,9.824,10.195A21.425,21.425,0,0,0,3.55-23.763c6.082,4.662,6.838,7.82,4.043,14.8C5.1-2.733,4.946,3.185,7.782,9.274c2.41,5.176,1.56,9.858-3.084,13.33A23.843,23.843,0,0,0-5.415,40.1c-.58,5.6-4.255,8.968-9.957,9.466a21.469,21.469,0,0,0-16.262,9.372c-3.7,5.13-8.672,6.017-14.134,3.539-6.211-2.816-12.161-2.608-18.3.107-5.371,2.374-10.36,1.442-13.744-3.453-4.229-6.117-9.928-8.869-17.128-9.686-5.157-.584-8.517-3.828-9.109-9.125-.821-7.357-3.862-13.2-10.055-17.492a10.116,10.116,0,0,1-4.591-8.586" transform="translate(118.694 63.896)"/>
+    </g>
+    <g id="Group_5414" data-name="Group 5414">
+      <path id="Path_4768" data-name="Path 4768" class="cls-4" d="M0,0C-18.86-.835-33.492-14.614-33.5-33.065c-.005-17.948,16.6-33.512,34.2-32.27C16.8-66.437,34.495-52.45,34.465-32.643,34.436-13.31,16.779.743,0,0M-11.492-71.276s.029.041.035.048v.006l-.04-.057a.008.008,0,0,0,.005,0M.772-87.587c-30.1.274-55.136,24.59-55.2,54.49C-54.5-3.117-29.546,21.657.587,21.718c30.069.06,55.689-25.074,54.972-54.638C56.6-62.882,29.5-87.848.772-87.587" transform="translate(63.136 96.572)"/>
+    </g>
+    <g id="Group_5415" data-name="Group 5415">
+      <path id="Path_4769" data-name="Path 4769" class="cls-3" d="M0,0C-17.6-1.242-34.207,14.322-34.2,32.27c0,18.451,14.636,32.23,33.5,33.065,16.779.743,34.435-13.31,34.465-32.643C33.789,12.885,16.092-1.1,0,0" transform="translate(63.842 31.237)"/>
+    </g>
+  </g>
+  <text id="R" class="cls-5" transform="translate(27.039 49.908) rotate(-63.5)"><tspan x="0" y="0">R</tspan></text>
+  <text id="E" class="cls-5" transform="matrix(0.571, -0.821, 0.821, 0.571, 30.15, 43.647)"><tspan x="0" y="0">E</tspan></text>
+  <text id="C" class="cls-5" transform="translate(33.824 38.304) rotate(-46.094)"><tspan x="0" y="0">C</tspan></text>
+  <text id="U" class="cls-5" transform="matrix(0.813, -0.583, 0.583, 0.813, 38.369, 33.494)"><tspan x="0" y="0">U</tspan></text>
+  <text id="R-2" data-name="R" class="cls-5" transform="matrix(0.909, -0.417, 0.417, 0.909, 44.191, 29.298)"><tspan x="0" y="0">R</tspan></text>
+  <text id="R-3" data-name="R" class="cls-5" transform="translate(50.49 26.389) rotate(-14.35)"><tspan x="0" y="0">R</tspan></text>
+  <text id="I" class="cls-5" transform="translate(57.334 24.753) rotate(-7.645)"><tspan x="0" y="0">I</tspan></text>
+  <text id="N" class="cls-5" transform="translate(60.324 24.253) rotate(-2.025)"><tspan x="0" y="0">N</tspan></text>
+  <text id="G" class="cls-5" transform="translate(67.853 24.034) rotate(8.666)"><tspan x="0" y="0">G</tspan></text>
+  <text id="_" data-name=" " class="cls-5" transform="translate(74.962 25.24) rotate(14.528)"><tspan x="0" y="0"> </tspan></text>
+  <text id="Z" class="cls-5" transform="translate(76.995 25.64) rotate(20.238)"><tspan x="0" y="0">Z</tspan></text>
+  <text id="A" class="cls-5" transform="translate(83.098 27.815) rotate(29.984)"><tspan x="0" y="0">A</tspan></text>
+  <text id="R-4" data-name="R" class="cls-5" transform="matrix(0.76, 0.65, -0.65, 0.76, 89.53, 31.515)"><tspan x="0" y="0">R</tspan></text>
+  <text id="I-2" data-name="I" class="cls-5" transform="matrix(0.671, 0.741, -0.741, 0.671, 94.772, 36.15)"><tspan x="0" y="0">I</tspan></text>
+  <text id="Y" class="cls-5" transform="translate(96.878 38.305) rotate(54.632)"><tspan x="0" y="0">Y</tspan></text>
+  <text id="A-2" data-name="A" class="cls-5" transform="matrix(0.456, 0.89, -0.89, 0.456, 100.429, 43.165)"><tspan x="0" y="0">A</tspan></text>
+  <text id="R-5" data-name="R" class="cls-5" transform="matrix(-0.446, 0.895, -0.895, -0.446, 103.301, 79.086)"><tspan x="0" y="0">R</tspan></text>
+  <text id="E-2" data-name="E" class="cls-5" transform="matrix(-0.571, 0.821, -0.821, -0.571, 100.191, 85.346)"><tspan x="0" y="0">E</tspan></text>
+  <text id="C-2" data-name="C" class="cls-5" transform="matrix(-0.693, 0.72, -0.72, -0.693, 96.517, 90.689)"><tspan x="0" y="0">C</tspan></text>
+  <text id="U-2" data-name="U" class="cls-5" transform="matrix(-0.813, 0.583, -0.583, -0.813, 91.971, 95.5)"><tspan x="0" y="0">U</tspan></text>
+  <text id="R-6" data-name="R" class="cls-5" transform="matrix(-0.909, 0.417, -0.417, -0.909, 86.15, 99.696)"><tspan x="0" y="0">R</tspan></text>
+  <text id="R-7" data-name="R" class="cls-5" transform="matrix(-0.969, 0.248, -0.248, -0.969, 79.851, 102.604)"><tspan x="0" y="0">R</tspan></text>
+  <text id="I-3" data-name="I" class="cls-5" transform="matrix(-0.991, 0.133, -0.133, -0.991, 73.006, 104.238)"><tspan x="0" y="0">I</tspan></text>
+  <text id="N-2" data-name="N" class="cls-5" transform="matrix(-0.999, 0.036, -0.036, -0.999, 70.017, 104.737)"><tspan x="0" y="0">N</tspan></text>
+  <text id="G-2" data-name="G" class="cls-5" transform="translate(62.488 104.956) rotate(-171.34)"><tspan x="0" y="0">G</tspan></text>
+  <text id="_2" data-name=" " class="cls-5" transform="translate(55.378 103.751) rotate(-165.474)"><tspan x="0" y="0"> </tspan></text>
+  <text id="Z-2" data-name="Z" class="cls-5" transform="translate(53.346 103.351) rotate(-159.763)"><tspan x="0" y="0">Z</tspan></text>
+  <text id="A-3" data-name="A" class="cls-5" transform="matrix(-0.866, -0.5, 0.5, -0.866, 47.242, 101.178)"><tspan x="0" y="0">A</tspan></text>
+  <text id="R-8" data-name="R" class="cls-5" transform="translate(40.81 97.479) rotate(-139.459)"><tspan x="0" y="0">R</tspan></text>
+  <text id="I-4" data-name="I" class="cls-5" transform="translate(35.568 92.842) rotate(-132.151)"><tspan x="0" y="0">I</tspan></text>
+  <text id="Y-2" data-name="Y" class="cls-5" transform="translate(33.462 90.687) rotate(-125.369)"><tspan x="0" y="0">Y</tspan></text>
+  <text id="A-4" data-name="A" class="cls-5" transform="translate(29.912 85.829) rotate(-117.108)"><tspan x="0" y="0">A</tspan></text>
+  <g id="Group_5419" data-name="Group 5419" class="cls-2">
+    <g id="Group_5417" data-name="Group 5417">
+      <path id="Path_4771" data-name="Path 4771" class="cls-4" d="M0,0C.623-8.529,4.675-14.529,12.785-17.367a17.483,17.483,0,0,1,16.779,3.086l-3.1,4.547c-.7-.454-1.345-.919-2.031-1.3A12.56,12.56,0,0,0,6.176-3.408,25.755,25.755,0,0,0,5.689-.489c-.072.464.139.655.612.647.773-.013,1.547,0,2.319.026,1.288.035,1.734.832,1.033,1.931C8.2,4.4,6.716,6.654,5.242,8.92c-.355.547-.708,1.1-1.07,1.637-.818,1.218-1.809,1.209-2.6-.052C.229,8.357-1.1,6.2-2.428,4.04c-.442-.72-.9-1.431-1.32-2.163C-4.342.836-3.918.068-2.709.02c.748-.031,1.5.013,2.247.017C-.32.038-.177.014,0,0" transform="translate(46.618 63.305)"/>
+    </g>
+    <g id="Group_5418" data-name="Group 5418">
+      <path id="Path_4772" data-name="Path 4772" class="cls-4" d="M0,0,3.136-4.592c.563.377,1.071.736,1.6,1.067a12.577,12.577,0,0,0,18.692-7.386c.242-.928.32-1.9.477-2.849.091-.549-.145-.724-.684-.7-.772.031-1.545.013-2.319-.016-1.16-.043-1.654-.834-1.041-1.8q2.813-4.431,5.727-8.8c.723-1.081,1.693-.942,2.453.279,1.174,1.884,2.333,3.779,3.5,5.668.594.967,1.211,1.92,1.775,2.9.636,1.107.221,1.834-1.049,1.873a16.672,16.672,0,0,1-1.884-.027c-.624-.051-.883.106-.914.811A17.947,17.947,0,0,1,24.523-1.815,18.175,18.175,0,0,1,.533.447C.361.321.207.176,0,0" transform="translate(53.866 76.462)"/>
+    </g>
+  </g>
+</svg>

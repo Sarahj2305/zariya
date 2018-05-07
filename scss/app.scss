@@ -5,6 +5,8 @@
 @import 'foundation';
 @import 'motion-ui';
 
+// @import 'fontawesome.scss';
+
 
 
 @include foundation-global-styles;
@@ -61,6 +63,7 @@
 @import 'links-and-buttons';
 @import 'posts';
 @import 'donorprofile';
+@import 'allpostimages';
 @import 'shame';
 
 

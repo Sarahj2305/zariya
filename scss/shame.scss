@@ -30,6 +30,8 @@
 	margin: 8px 0; 
 }
 
+
+
 // .toppadding {
 // padding-top: 50px;
 // }
@@ -388,6 +390,7 @@ footer{
 	background-color: $brand;
 	margin-bottom: 25px;
 }
+
 
 .payment-image{
 	transform: translateY(-240px);
@@ -802,7 +805,7 @@ figure.effect-chico figcaption::before{
 
 .star-half:before {
   position: absolute;
-  content: "\f089";
+  content: "\f005";
   padding-right: 0;
 }
 
@@ -836,3 +839,42 @@ figure.effect-chico figcaption::before{
 
 
 
+
+
+
+.paymentprofile-post-bg {
+
+	background-image: url('../assets/posts/paymentprofile-bg.jpg');
+	width: 100%;
+	// min-height: 500px;
+	height: 70vh;
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+    // background-attachment: fixed;   
+    
+
+}
+
+
+
+.menu a, .menu .button {
+
+	@include breakpoint (small only){
+		padding: 0px;
+	}
+}
+
+
+.menu .logo-header-link{
+	padding: 0px 20px 0px 0px;
+}
+
+
+.grey-bg{
+	background-color: $lighter-grey;
+}
+
+.post-review{
+	display: none;
+}
